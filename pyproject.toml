@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "linklytics"
+version = "0.1.0"
+description = ""
+authors = ["marcelmarais <marcelmarais2000@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.2"
+openpyxl = "^3.1.3"
+pydantic-settings = "^2.2.1"
+pydantic = "^2.7.2"
+coloredlogs = "^15.0.1"
+selenium = "^4.21.0"
+webdriver-manager = "^4.0.1"
+beautifulsoup4 = "^4.12.3"
+nltk = "^3.8.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

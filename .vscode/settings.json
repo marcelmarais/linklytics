@@ -1,0 +1,24 @@
+{
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports": "explicit",
+      "source.lint": "explicit"
+    }
+  },
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  },
+  "editor.formatOnSave": true,
+  "ruff.organizeImports": false,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#372B22",
+    "titleBar.activeBackground": "#4D3C30",
+    "titleBar.activeForeground": "#FCFBFA"
+  }
+}
