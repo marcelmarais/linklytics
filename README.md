@@ -1,4 +1,11 @@
-# Linklytics
+
+<p float="left" align="center">
+  <img src="https://a.storyblok.com/f/287463/1024x1024/e71b49229e/dall-e-logo-design-for-linkedlytics.webp" alt="Linkedlytics logo" width="150" style="margin-right: 10px;" />
+  <div>
+  <h1 style="margin: 0;">Linklytics</h1>
+  </div>
+</p>
+
 
 Linkedin's analytics sucks. A lot. So I've built a small tool that gets some more valuable information out of the raw data they let you download.
 
